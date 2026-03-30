@@ -20,6 +20,7 @@ const ConsultingServices = () => {
                         <ul class="space-y-3">
                             <li class="flex items-center gap-3 text-sm text-on-surface"><span class="material-symbols-outlined text-secondary text-sm">check_circle</span> Mock Stress Tests</li>
                             <li class="flex items-center gap-3 text-sm text-on-surface"><span class="material-symbols-outlined text-secondary text-sm">check_circle</span> Salary Negotiation</li>
+                            
                         </ul>
                     </div>
                     <div class="bg-surface-container-high p-10 rounded-2xl hover:bg-surface-container-highest transition-all hover:-translate-y-2 duration-300">
