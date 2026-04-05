@@ -304,7 +304,7 @@
                         </div>
                     </div>
                 </section>
-                <!-- Final CTA -->
+                <!-- CTA -->
                 <section class="py-24 px-8 text-center bg-background relative overflow-hidden">
                     <div class="absolute inset-0 bg-primary-container/5 pointer-events-none"></div>
                     <div class="max-w-4xl mx-auto relative z-10">
