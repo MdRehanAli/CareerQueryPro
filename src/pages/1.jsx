@@ -328,6 +328,9 @@
                         </div>
                     </div>
                     <div>
+                        
+                    </div>
+                    <div>
                         <h5 class="text-[#e9c176] font-headline font-bold mb-6">Services</h5>
                         <ul class="space-y-4 font-body text-sm">
                             <li><a class="text-[#c3c6d6] hover:text-[#e9c176] transition-colors" href="#">Resume Builder</a></li>
